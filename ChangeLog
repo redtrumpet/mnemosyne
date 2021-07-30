@@ -9,6 +9,7 @@ This might also help with other hard crashes.
 If this does not help, or if you see a black screen, try starting Mnemosyne
 with the --qt-opengl=desktop command line argument.)
 
+- Updated Czech translations by Jakub Kolcar.
 
 Mnemosyne 2.8 : 2021-06-28
 

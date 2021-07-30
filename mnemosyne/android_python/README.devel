@@ -1,3 +1,12 @@
+Note: the current branch contais some work related to trying to get AAB packages to work, before I
+realised that the August 2021 deadline was for new apps, and that updates to existing apps are OK.
+
+The current version seems to bundle the assets OK, but the python and sql libraries itself are not bundled.
+I probably need to move them from the dependencies folder to src/<architecture> folders.
+
+
+
+
 Short instructions to compile the multilanguage Python/C/Java Mnemosyne client
 for Android, using Windows/Cygwin:
 
